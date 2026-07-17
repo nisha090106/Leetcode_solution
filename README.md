@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,13 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+## Array
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
