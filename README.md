@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/nisha090106/Leetcode_solution/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nisha090106/Leetcode_solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
