@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0027-remove-element) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
@@ -37,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/nisha090106/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
