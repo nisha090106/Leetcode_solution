@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
@@ -42,6 +43,7 @@
 | [0027-remove-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nisha090106/Leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
