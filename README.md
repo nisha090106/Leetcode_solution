@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
 |  |
@@ -61,6 +63,7 @@
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -76,6 +79,7 @@
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Quicksort
 |  |
