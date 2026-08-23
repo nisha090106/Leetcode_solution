@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
@@ -74,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
