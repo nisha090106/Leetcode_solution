@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -38,6 +39,7 @@
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -82,6 +84,7 @@
 | [0016-3sum-closest](https://github.com/nisha090106/Leetcode_solution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
