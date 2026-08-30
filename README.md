@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Array
 |  |
@@ -40,6 +42,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
