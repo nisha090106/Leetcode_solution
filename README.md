@@ -46,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
@@ -57,6 +58,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
