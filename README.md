@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/nisha090106/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nisha090106/Leetcode_solution/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/nisha090106/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nisha090106/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
