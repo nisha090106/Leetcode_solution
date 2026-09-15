@@ -34,6 +34,7 @@
 | [0344-reverse-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nisha090106/Leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/nisha090106/Leetcode_solution/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nisha090106/Leetcode_solution/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
