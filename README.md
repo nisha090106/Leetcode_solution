@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/nisha090106/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nisha090106/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nisha090106/Leetcode_solution/tree/master/0125-valid-palindrome) |
@@ -195,6 +197,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/nisha090106/Leetcode_solution/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
