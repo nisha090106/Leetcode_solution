@@ -24,6 +24,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nisha090106/Leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0076-minimum-window-substring](https://github.com/nisha090106/Leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -163,6 +166,7 @@
 | [0169-majority-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nisha090106/Leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
 | ------- |
