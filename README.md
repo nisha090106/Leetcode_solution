@@ -80,6 +80,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nisha090106/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
 |  |
