@@ -67,6 +67,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/nisha090106/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
