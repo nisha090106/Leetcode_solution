@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nisha090106/Leetcode_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nisha090106/Leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -73,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
@@ -128,6 +130,7 @@
 | [0169-majority-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nisha090106/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nisha090106/Leetcode_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nisha090106/Leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
@@ -146,6 +149,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Timsort
 |  |
@@ -212,6 +216,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/nisha090106/Leetcode_solution/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -221,4 +226,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
