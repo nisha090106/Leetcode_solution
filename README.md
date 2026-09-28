@@ -86,6 +86,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nisha090106/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nisha090106/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nisha090106/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -229,4 +231,8 @@
 | ------- |
 | [0136-single-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nisha090106/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
