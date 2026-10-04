@@ -235,4 +235,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nisha090106/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
