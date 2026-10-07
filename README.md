@@ -111,6 +111,7 @@
 | [0344-reverse-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -243,6 +244,7 @@
 | [0002-add-two-numbers](https://github.com/nisha090106/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nisha090106/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
