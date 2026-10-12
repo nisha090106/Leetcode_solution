@@ -79,6 +79,7 @@
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +123,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -139,6 +141,7 @@
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nisha090106/Leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -256,4 +259,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/nisha090106/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
