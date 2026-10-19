@@ -81,6 +81,7 @@
 | [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nisha090106/Leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
@@ -117,6 +118,7 @@
 | [0189-rotate-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nisha090106/Leetcode_solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisha090106/Leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Timsort
 |  |
@@ -247,6 +250,7 @@
 | ------- |
 | [0136-single-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -287,4 +291,9 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nisha090106/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
