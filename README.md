@@ -221,6 +221,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nisha090106/Leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nisha090106/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -244,6 +245,7 @@
 | [0013-roman-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/nisha090106/Leetcode_solution/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -280,6 +282,7 @@
 | [0234-palindrome-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
