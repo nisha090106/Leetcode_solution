@@ -291,6 +291,7 @@
 | [0234-palindrome-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -323,4 +324,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
