@@ -6,6 +6,7 @@
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nisha090106/Leetcode_solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/nisha090106/Leetcode_solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/nisha090106/Leetcode_solution/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/nisha090106/Leetcode_solution/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/nisha090106/Leetcode_solution/tree/master/1280-students-and-examinations) |
 | [1517-find-users-with-valid-e-mails](https://github.com/nisha090106/Leetcode_solution/tree/master/1517-find-users-with-valid-e-mails) |
