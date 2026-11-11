@@ -94,6 +94,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1051-height-checker](https://github.com/nisha090106/Leetcode_solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nisha090106/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -167,6 +168,7 @@
 | [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nisha090106/Leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisha090106/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/nisha090106/Leetcode_solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nisha090106/Leetcode_solution/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/nisha090106/Leetcode_solution/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -319,6 +322,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nisha090106/Leetcode_solution/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/nisha090106/Leetcode_solution/tree/master/1051-height-checker) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
