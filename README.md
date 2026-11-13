@@ -23,6 +23,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/nisha090106/Leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nisha090106/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/nisha090106/Leetcode_solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nisha090106/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nisha090106/Leetcode_solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nisha090106/Leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -297,6 +298,7 @@
 | [0141-linked-list-cycle](https://github.com/nisha090106/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/nisha090106/Leetcode_solution/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nisha090106/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -346,5 +348,10 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nisha090106/Leetcode_solution/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nisha090106/Leetcode_solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nisha090106/Leetcode_solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
