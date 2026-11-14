@@ -63,6 +63,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nisha090106/Leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nisha090106/Leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -102,11 +103,13 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nisha090106/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nisha090106/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nisha090106/Leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nisha090106/Leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
