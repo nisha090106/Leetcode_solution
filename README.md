@@ -99,6 +99,7 @@
 | [1051-height-checker](https://github.com/nisha090106/Leetcode_solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/nisha090106/Leetcode_solution/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nisha090106/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nisha090106/Leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nisha090106/Leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisha090106/Leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nisha090106/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nisha090106/Leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -256,6 +258,7 @@
 | [0118-pascals-triangle](https://github.com/nisha090106/Leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nisha090106/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [0268-missing-number](https://github.com/nisha090106/Leetcode_solution/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/nisha090106/Leetcode_solution/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nisha090106/Leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nisha090106/Leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/nisha090106/Leetcode_solution/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
